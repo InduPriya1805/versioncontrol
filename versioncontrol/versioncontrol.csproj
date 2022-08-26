@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="test folder\" />
     <Folder Include="NewFolder\" />
   </ItemGroup>
 
